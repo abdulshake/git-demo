@@ -2,6 +2,8 @@
 
 ## Second Line of Code in Git-Project
 
+### Third Line of Code in Git-Project
+
 Project Summary:
 
 A Startup called Sparkify wants to run some analytics on their new music streaming app usage, to improve its features and user adoptability. They are interested in understanding the user activity and their preferences in music attributes.
